@@ -57,7 +57,7 @@
 
 ## 致谢
 
-感谢NotionNext项目：https://github.com/tangly1024/NotionNext，让我能够快速搭建这个博客。
+感谢NotionNext项目：[https://github.com/tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) 让我能够快速搭建这个博客。
 
 ---
 

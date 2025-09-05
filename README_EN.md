@@ -57,7 +57,7 @@ In the era of information explosion, we hope to provide not just knowledge trans
 
 ## Acknowledgments
 
-Thanks to the NotionNext project: https://github.com/tangly1024/NotionNext, which enabled me to quickly build this blog.
+Thanks to the NotionNext project: [https://github.com/tangly1024/NotionNext](https://github.com/tangly1024/NotionNext), which enabled me to quickly build this blog.
 
 ---
 
