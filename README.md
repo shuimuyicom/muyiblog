@@ -1,77 +1,66 @@
-# 帮助教程
+# 水木易的博客
 
-访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
+> 探索传统智慧与现代思维的融合之地
 
-> 本项目教程为免费、公开资源，仅限个人学习使用，禁止利用本教程建立的博客发布非法内容、进行违法犯罪活动。严禁任何个人或组织将本教程用于商业用途，包括但不限于直接售卖、间接收费、或其他变相盈利行为。转载、复制或介绍本教程内容时，须保留作者信息并明确注明来源。 
-> 本项目仅提供由作者团队授权的付费咨询服务，请注意辨别，谨防诈骗行为。任何未经授权的收费服务均可能存在法律风险。
+欢迎来到水木易的个人博客。这里是一个汇聚传统文化智慧与现代思维碰撞的知识分享平台。我们致力于在快节奏的现代生活中，为您提供深度思考的空间和人生智慧的启发。
 
-Notion是一个能让效率暴涨的生产力引擎，可以帮你书写文档、管理笔记，搭建知识库，甚至可以为你规划项目、时间管理、组织团队、提高生产力、还有当前最强大的AI技术加持。
+## 🌟 关于水木易
 
-> 如果希望进一步探索Notion的功能，欢迎购买《[Notion笔记从入门到精通进阶课程](https://docs.tangly1024.com/article/notion-tutorial)》
+水木易，是我的网名，同时是我姓名的拆写，寓意如水般灵动，如木般坚韧，易于变通而不失本真。在这个数字化时代，我们用现代的技术手段传承古老的智慧，用理性的思维探索哲学的深度，用专业的视角分析产品的本质。
 
-# NotionNext
+### 📍 官方网站
+**[shuimuyi.com](https://shuimuyi.com)** - 更多精彩内容，尽在官网
 
-<p>
-  <a aria-label="GitHub commit activity" href="https://github.com/tangly1024/NotionNext/commits/main" title="GitHub commit activity">
-    <img src="https://img.shields.io/github/commit-activity/m/tangly1024/NotionNext?style=for-the-badge"/>
-  </a>
-  <a aria-label="GitHub contributors" href="https://github.com/tangly1024/NotionNext/graphs/contributors" title="GitHub contributors">
-    <img src="https://img.shields.io/github/contributors/tangly1024/NotionNext?color=orange&style=for-the-badge"/>
-  </a>
-  <a aria-label="Build status" href="#" title="Build status">
-    <img src="https://img.shields.io/github/deployments/tangly1024/NotionNext/Production?logo=Vercel&style=for-the-badge"/>
-  </a>
-  <a aria-label="Powered by Vercel" href="https://vercel.com?utm_source=Craigary&utm_campaign=oss" title="Powered by Vercel">
-    <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" height="28"/>
-  </a>
-</p>
+我们的官方网站汇集了更加丰富和深入的内容，包括最新文章、专题系列、读者互动等。欢迎访问获取完整的阅读体验。
 
-中文文档 | [README in English](./README_EN.md)
+## 📚 内容领域
 
-<hr/>
+### 🔮 命理学说
+- **传统命理与现代应用**：将古老的命理智慧与现代生活相结合
+- **易经哲学**：探索《易经》中的人生智慧和决策思维
+- **文化传承**：传统文化在当代社会中的价值与意义
 
-一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
+### 🤔 哲学思辨
+- **人生哲学**：探讨生命的意义、价值观的建构
+- **思维方式**：理性思考与直觉洞察的平衡
+- **东西方思想**：中西哲学的对话与融合
 
-支持多种部署方案
+### 💡 产品洞察
+- **用户体验设计**：从人性角度理解产品设计
+- **商业思维**：产品策略与市场洞察
+- **创新方法论**：如何在传统智慧中汲取创新灵感
 
-## 预览效果
+## 🛠 技术架构
 
-在线演示：[https://preview.tangly1024.com/](https://preview.tangly1024.com/) ，点击左下角挂件可以切换主题，没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
+本博客基于现代化的技术栈构建：
 
-| Next                                                                                                  | Medium                                                                                                      | Hexo                                                                                                  | Fukasawa                                                                                                          |
-| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://preview.tangly1024.com/?theme=next) | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://preview.tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://preview.tangly1024.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://preview.tangly1024.com/?theme=fukasawa) |
+- **前端框架**：Next.js - 提供优秀的用户体验和SEO优化
+- **内容管理**：Notion API - 灵活便捷的内容创作和管理
+- **样式框架**：Tailwind CSS - 现代化的响应式设计
+- **部署平台**：Vercel - 全球化的快速访问体验
+
+## 🎯 我们的使命
+
+在信息爆炸的时代，我们希望提供的不仅仅是知识的传递，更是智慧的启发。通过深度思考和跨领域的知识融合，帮助读者：
+
+- 🧭 在复杂的世界中找到方向
+- 💎 在浮躁的时代保持深度
+- 🌱 在传统与现代中寻找平衡
+- 🚀 在实践中获得成长
+
+## 📖 如何开始
+
+1. **访问官网**：前往 [shuimuyi.com](https://shuimuyi.com) 获取完整阅读体验
+2. **关注更新**：订阅我们的内容更新，第一时间获取新文章
+3. **互动交流**：参与评论讨论，分享您的见解和思考
+4. **深度阅读**：选择感兴趣的专题进行系统性学习
 
 ## 致谢
 
-感谢Craig Hart发起的Nobelium项目
+感谢NotionNext项目：https://github.com/tangly1024/NotionNext，让我能够快速搭建这个博客。
 
-<table><tr align="left">
-  <td align="center"><a href="https://github.com/craigary" title="Craig Hart"><img src="https://avatars.githubusercontent.com/u/10571717" width="64px;"alt="Craig Hart"/></a><br/><a href="https://github.com/craigary" title="Craig Hart">Craig Hart</a></td>
-</tr></table>
+---
 
-## 贡献者
+*© 2021-2025 水木易的博客 - 传统智慧与现代思维的融合之地*
 
-感谢所有为 NotionNext 做出贡献的人！
-
-[![Contributors](https://contrib.rocks/image?repo=tangly1024/NotionNext)](https://github.com/tangly1024/NotionNext/graphs/contributors)
-
-## 引用技术
-
-- **框架**: [Next.js](https://nextjs.org)
-- **样式**: [Tailwind CSS](https://www.tailwindcss.cn/)
-- **渲染**: [React-notion-x](https://github.com/NotionX/react-notion-x)
-- **评论**: [Twikoo](https://github.com/imaegoo/twikoo), [Giscus](https://giscus.app/zh-CN), [Gitalk](https://gitalk.github.io), [Cusdis](https://cusdis.com), [Utterances](https://utteranc.es)
-- **图标**: [Fontawesome](https://fontawesome.com/v6/icons/)
-
-## 🔗 友情链接
-
-- [Elog](https://github.com/LetTTGACO/elog) Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
-
-## License
-
-The MIT License.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tangly1024/NotionNext&type=Date)](https://star-history.com/#tangly1024/NotionNext&Date)
+**更多精彩内容，请访问：[shuimuyi.com](https://shuimuyi.com)**

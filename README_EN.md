@@ -1,71 +1,66 @@
-# Free Installation and Usage Guide
+# Shuimuyi's Blog
 
-Click here to access the help documentation: NotionNext Help Manual - (Completely Free)
+> A place where traditional wisdom meets modern thinking
 
-## Rights Statement
+Welcome to Shuimuyi's personal blog. This is a knowledge-sharing platform that brings together the wisdom of traditional culture and the collision of modern thinking. We are committed to providing space for deep thinking and inspiration of life wisdom in the fast-paced modern life.
 
-This project's tutorial is a free and open resource intended solely for personal learning use. It is strictly prohibited for any individual or organization to use this tutorial for commercial purposes, including but not limited to direct sales, indirect charges, or any other forms of profit. When reproducing, copying, or sharing this tutorial, the author's information must be retained, and the source clearly cited.
+## 🌟 About Shuimuyi
 
-This project only offers paid consultation services authorized by the author's team. Please be vigilant against fraud. Any unauthorized paid services may be subject to legal risks.
+Shuimuyi is my online name, which is also a deconstruction of my real name, symbolizing the agility of water, the resilience of wood, and the ability to adapt while staying true to one's essence. In this digital age, we use modern technological means to inherit ancient wisdom, explore philosophical depths with rational thinking, and analyze the essence of products with professional perspectives.
 
-You can set up your personal website in just a few minutes. Here is the link to my free tutorial:
+### 📍 Official Website
+**[shuimuyi.com](https://shuimuyi.com)** - More exciting content available on our official website
 
-# NotionNext
+Our official website brings together richer and more in-depth content, including latest articles, featured series, reader interactions, and more. Welcome to visit for a complete reading experience.
 
-<p>
-  <a aria-label="GitHub commit activity" href="https://github.com/tangly1024/NotionNext/commits/main" title="GitHub commit activity">
-    <img src="https://img.shields.io/github/commit-activity/m/tangly1024/NotionNext?style=for-the-badge"/>
-  </a>
-  <a aria-label="GitHub contributors" href="https://github.com/tangly1024/NotionNext/graphs/contributors" title="GitHub contributors">
-    <img src="https://img.shields.io/github/contributors/tangly1024/NotionNext?color=orange&style=for-the-badge"/>
-  </a>
-  <a aria-label="Build status" href="#" title="Build status">
-    <img src="https://img.shields.io/github/deployments/tangly1024/NotionNext/Production?logo=Vercel&style=for-the-badge"/>
-  </a>
-  <a aria-label="Powered by Vercel" href="https://vercel.com?utm_source=Craigary&utm_campaign=oss" title="Powered by Vercel">
-    <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" height="28"/>
-  </a>
-</p>
+## 📚 Content Areas
 
+### 🔮 Chinese Metaphysics
+- **Traditional Numerology and Modern Applications**: Combining ancient metaphysical wisdom with modern life
+- **I Ching Philosophy**: Exploring life wisdom and decision-making thinking from the I Ching
+- **Cultural Heritage**: The value and significance of traditional culture in contemporary society
 
-[中文文档](./README.md) | README in English
+### 🤔 Philosophical Thinking
+- **Life Philosophy**: Exploring the meaning of life and the construction of values
+- **Thinking Methods**: Balancing rational thinking with intuitive insight
+- **Eastern and Western Thought**: Dialogue and integration of Chinese and Western philosophy
 
-<hr/>
+### 💡 Product Insights
+- **User Experience Design**: Understanding product design from a human nature perspective
+- **Business Thinking**: Product strategy and market insights
+- **Innovation Methodology**: How to draw innovative inspiration from traditional wisdom
 
-A static blog system built with NextJS and Notion API, deployed on Vercel. Designed for Notion and all creators.
+## 🛠 Technical Architecture
 
+This blog is built on a modern technology stack:
 
-## Preview
+- **Frontend Framework**: Next.js - Providing excellent user experience and SEO optimization
+- **Content Management**: Notion API - Flexible and convenient content creation and management
+- **Styling Framework**: Tailwind CSS - Modern responsive design
+- **Deployment Platform**: Vercel - Global fast access experience
 
-Live Demo：[https://preview.tangly1024.com/](https://preview.tangly1024.com/) ，Project supports switching between multiple themes. Can't find a theme you like? How about [contributing](/CONTRIBUTING.md) one?~
+## 🎯 Our Mission
 
-| Next | Medium | Hexo | Fukasawa |
-|--|--|--|--|
-| <img src='./docs/theme-next.png' width='300'/> [NEXT](https://preview.tangly1024.com/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [MEDIUM](https://preview.tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [HEXO](https://preview.tangly1024.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [FUKASAWA](https://preview.tangly1024.com/?theme=fukasawa) |
+In the era of information explosion, we hope to provide not just knowledge transmission, but wisdom inspiration. Through deep thinking and cross-disciplinary knowledge integration, we help readers:
 
-## Acknowledgements
+- 🧭 Find direction in a complex world
+- 💎 Maintain depth in an impetuous era
+- 🌱 Seek balance between tradition and modernity
+- 🚀 Achieve growth through practice
 
-Special thanks to Craig Hart for initiating the Nobelium project.
+## 📖 How to Get Started
 
-<table><tr align="left">
-  <td align="center"><a href="https://github.com/craigary" title="Craig Hart"><img src="https://avatars.githubusercontent.com/u/10571717" width="64px;"alt="Craig Hart"/></a><br/><a href="https://github.com/craigary" title="Craig Hart">Craig Hart</a></td>
-</tr></table>
+1. **Visit Official Website**: Go to [shuimuyi.com](https://shuimuyi.com) for the complete reading experience
+2. **Follow Updates**: Subscribe to our content updates to get new articles first
+3. **Interactive Communication**: Participate in comment discussions and share your insights and thoughts
+4. **Deep Reading**: Choose topics of interest for systematic learning
 
-## Contributors
+## Acknowledgments
 
-This project exists thanks to all the people who contribute.
+Thanks to the NotionNext project: https://github.com/tangly1024/NotionNext, which enabled me to quickly build this blog.
 
-[![Contributors](https://contrib.rocks/image?repo=tangly1024/NotionNext)](https://github.com/tangly1024/NotionNext/graphs/contributors)
+---
 
-## Technologies Used
+*© 2021-2025 Shuimuyi's Blog - Where Traditional Wisdom Meets Modern Thinking*
 
-- **Technical Framework**: [Next.js](https://nextjs.org)
-- **Styles**: [Tailwind CSS](https://www.tailwindcss.cn/)
-- **Rendering Tool**: [React-notion-x](https://github.com/NotionX/react-notion-x)
-- **COMMENT**: [Twikoo](https://github.com/imaegoo/twikoo), [Giscus](https://giscus.app/zh-CN), [Gitalk](https://gitalk.github.io), [Cusdis](https://cusdis.com), [Utterances](https://utteranc.es)
-- **ICON**: [Fontawesome](https://fontawesome.com/v6/icons/)
-
-
-## License
-
-The MIT License.
+**For more exciting content, please visit: [shuimuyi.com](https://shuimuyi.com)**
