@@ -46,9 +46,9 @@ const Style = () => {
       }
 
       #theme-typography {
-        --primary-color: #0369a1;
+        --primary-color: #2e405b;
         background-color: rgb(255 255 255) / 1;
-        color: #0369a1;
+        color: #2e405b;
         background-size: 7px 7px;
         text-shadow: 1px 1px 1px rgb(0 0 0 / 0.04);
         background-image: linear-gradient(
@@ -70,7 +70,7 @@ const Style = () => {
       }
 
       #theme-typography .blog-item-title {
-        color: #0284c7;
+        color: #276077;
       }
 
       .dark #theme-typography .blog-item-title {
