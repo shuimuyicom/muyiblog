@@ -1,5 +1,7 @@
 /* eslint-disable react/no-unknown-property */
 /**
+ * 主题的网格样式已注释，若需要使用网格样式，请取消注释；
+ * 网格样式注释代码在第54行、56行；
  * 此处样式只对当前主题生效
  * 此处不支持 tailwindCSS 的 @apply 语法
  * @returns
@@ -75,6 +77,14 @@ const Style = () => {
       }
 
       .dark #theme-typography .blog-item-title {
+        color: #d1d5db;
+      }
+
+      #theme-typography .article-detail-title {
+        color: #276077;  /* 与文章列表标题保持一致 */
+      }
+
+      .dark #theme-typography .article-detail-title {
         color: #d1d5db;
       }
 
