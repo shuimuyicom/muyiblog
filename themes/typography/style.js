@@ -1,6 +1,7 @@
 /* eslint-disable react/no-unknown-property */
 /**
- * 此处样式只对当前主题生效
+ * 主题的网格样式已注释，若需要使用网格样式，请取消注释；
+ * 代码在第54行、56行；
  * 此处不支持 tailwindCSS 的 @apply 语法
  * @returns
  */
@@ -46,17 +47,18 @@ const Style = () => {
       }
 
       #theme-typography {
-        --primary-color: #2e405b;
+        --primary-color: #0c4a6e;
         background-color: rgb(255 255 255) / 1;
-        color: #2e405b;
-        background-size: 7px 7px;
+        color: #0c4a6e;
+        /* background-size: 7px 7px; */
         text-shadow: 1px 1px 1px rgb(0 0 0 / 0.04);
-        background-image: linear-gradient(
+        /* background-image: linear-gradient(
             to right,
             rgb(0 0 0 / 0.04) 1px,
             transparent 1px
           ),
           linear-gradient(to bottom, rgb(0 0 0 / 0.04) 1px, transparent 1px);
+        */
       }
 
       #theme-typography #blog-name {
@@ -70,11 +72,11 @@ const Style = () => {
       }
 
       #theme-typography .blog-item-title {
-        color: #276077;
+        color: #0c4a6e; /* 与文章列表标题保持一致 */
       }
 
       .dark #theme-typography .blog-item-title {
-        color: #d1d5db;
+        color: #d1d5db; /* 与文章列表标题保持一致 */
       }
 
       .notion {

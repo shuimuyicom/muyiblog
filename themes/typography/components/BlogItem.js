@@ -81,7 +81,7 @@ export const BlogItem = props => {
             </div>
           </header>
 
-          <main className='text-[var(--primary-color)] dark:text-gray-300 line-clamp-4 overflow-hidden text-ellipsis relative leading-[1.7]'>
+          <main className='text-zinc-600 dark:text-gray-300 line-clamp-4 overflow-hidden text-ellipsis relative leading-[1.7]'>
             {!showPreview && (
               <>
                 {post.summary}
